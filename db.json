@@ -1,14 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id":"img1",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img1.jpg",
+        "full-image-src":"/images/full-images/full-img1.jpg"
+    },
+    {
+        "id":"img2",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img2.jpg",
+        "full-image-src":"/images/full-images/full-img2.jpg"
+    },
+    {
+        "id":"img3",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img3.jpg",
+        "full-image-src":"/images/full-images/full-img3.jpg"
+    },
+    {
+        "id":"img4",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img4.jpg",
+        "full-image-src":"/images/full-images/full-img4.jpg"
+    },
+    {
+        "id":"img5",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img5.jpg",
+        "full-image-src":"/images/full-images/full-img5.jpg"
+    },
+    {
+        "id":"img6",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img6.jpg",
+        "full-image-src":"/images/full-images/full-img6.jpg"
+    },
+    {
+        "id":"img7",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img7.jpg",
+        "full-image-src":"/images/full-images/full-img7.jpg"
+    },
+    {
+        "id":"img8",
+        "small-description":"this is a small description.",
+        "big-description":"this is a big description.this is a big description.this is a big description.this is a big description.",
+        "thumbnail-src":"/images/thumbnails/thmb-img8.jpg",
+        "full-image-src":"/images/full-images/full-img8.jpg"
+    }
+]
